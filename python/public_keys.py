@@ -1,0 +1,7 @@
+#Kelly's Twitter API Dev Account
+twitter_api_key = 'IG2SmG76aa12ZNVYP2wIMQp0T'
+twitter_api_secret = 'wGsDrUzm846GV3e1suMWKhW6ubQc4kapi0B7Nq790xuLMwYnWU'
+twitter_access_token = '1364258163298603011-FruEWvWEVNvb6Yt9xBrP4xRwYvgkSi'
+twitter_access_token_secret = 'dvbqHIvX1DKUbybmPctC6zczIM6dhyHpyY5PMb0n2f55b'
+
+twitter_bearer_token = 'AAAAAAAAAAAAAAAAAAAAANVaNAEAAAAAf%2FlO%2F07gYZDoO4Fnr%2B5q4yrFNxI%3DTo1I1OpTgmp39OGkVX5MAt26QdpVTgqfcq3HrCvrbgktGQVlwQ'
