@@ -66,14 +66,23 @@ To get a local copy up and running follow these simple steps.
 ```sh
 git clone repo-link
 ```
-2. Install Environment
+2. Navegate to the repo
 ```sh
-sh install.sh
+cd ./cs_122
 ```
-3. Run the application in your local server
+3. Install Environment
 ```sh
-sh run_program.sh
+sh sudo bash ./install.sh
 ```
+4. Activate project environment
+```sh
+source projenv/bin/activate
+```
+5. Run Program and Choose N (a later update may allow functionality if choosing Y)
+```
+sh sudo bash ./run_program.sh
+```
+
 
 <!-- CONTRIBUTING -->
 ## Contributing
