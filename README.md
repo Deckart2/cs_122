@@ -72,7 +72,7 @@ cd ./cs_122
 ```
 3. Install Environment
 ```sh
-sh sudo bash ./install.sh
+sudo bash ./install.sh
 ```
 4. Activate project environment
 ```sh
@@ -80,7 +80,7 @@ source projenv/bin/activate
 ```
 5. Run Program and Choose N (a later update may allow functionality if choosing Y)
 ```
-sh sudo bash ./run_program.sh
+sudo bash ./run_program.sh
 ```
 
 
