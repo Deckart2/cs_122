@@ -64,7 +64,7 @@ To get a local copy up and running follow these simple steps.
  
 1. Clone the repo
 ```sh
-git clone repo-link
+git clone repo-https://github.com/Deckart2/cs_122.git
 ```
 2. Navegate to the repo
 ```sh
